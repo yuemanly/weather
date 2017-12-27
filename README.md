@@ -1,2 +1,2 @@
 # weather 
-# Use twilio to send the weather message to yourself phone.
+# Use twilio to send the weather message to own phone.
